@@ -17,3 +17,9 @@ A lot of repos are archived mirrors of abandoned code from earlier attempts at r
 Also, we have a [OneDrive](https://1drv.ms/u/s!AvFccrT6YPVUgpsxwYO9kj-XGX1jPA) folder for larger files, including but not limited to legacy LotRO clients.
 
 Last but not the least, **hit our [Discord](https://discord.gg/j3BhkRpREr)!**
+
+## How can I help?
+
+Please see our [projects](https://github.com/orgs/Middle-earth-Revenge/projects) and related issues.
+
+You can also help by joining our [Discord](https://discord.gg/j3BhkRpREr), asking questions or just hanging there.
