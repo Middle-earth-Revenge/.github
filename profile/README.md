@@ -4,7 +4,7 @@ Middle-earth Revenge (MER) is The One Place for all The Lord of the Rings Online
 
 ## What is this place?
 
-Please read our [FAQ](FAQ.md).
+Please read our [FAQ](/profile/FAQ.md).
 
 ## Got it. So what's there?
 
